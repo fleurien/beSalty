@@ -167,6 +167,7 @@ section{
     width:150px;
     height:150px;
     overflow:hidden;
+    margin:-1px;
 }
 
 .card img{
